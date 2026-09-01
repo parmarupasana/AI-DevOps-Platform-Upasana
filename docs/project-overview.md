@@ -8,4 +8,3 @@
 8. DevOps Component
 9. Monitoring Component
 10. Deployment Strategy
- 
